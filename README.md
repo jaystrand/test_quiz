@@ -4,6 +4,7 @@
 - [Description](#description)
 - [Usage](#usage)
 - [Installation](#installation)
+- [Video](#video)
 - [Contributors](#contributors)
 - [Questions](#questions)
 
@@ -16,6 +17,8 @@
 
 ## Installation
 1. 
+
+## Video
 
 ## Contributors
 #### Jermaine Strand
