@@ -9,12 +9,12 @@ describe('Python Quiz', () => {
         
       });
 
-    //   it('when selecting an answer, it should move to the next question', () => {
-        
-    //   });
+      it('when selecting an answer, it should move to the next question', () => {
+        cy.get('button').click(); 
+      });
 
-    //   it('when clicking take new quiz, a new quiz should start', () => {
-        
-    //   });
+      it('when clicking take new quiz, a new quiz should start', () => {
+        cy.get('button').click();       
+      });
  
 });
