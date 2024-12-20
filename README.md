@@ -18,7 +18,7 @@ Cypress was used to test the functionality of the quiz test site by validating i
 1. Open a new terminal and type git clone git@github.com:jaystrand/test_quiz.git to add the respository.
 2. Next type npm install to install of of the required dependencies.
 3. Next, right click server and click open integrated terminal. Then type npm run start:dev to start up the server.
-4. Right click onto client and click oepn integrated terminal, then type npm run test to run the cypress test.
+4. Right click onto client and click open integrated terminal, then type npm run test to run the cypress test.
 
 ## Video
 
