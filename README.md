@@ -1,4 +1,4 @@
-# test_quiz ![badge](https://img.shields.io/badge/license-MIT-blue)
+# Test Quiz ![badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Table of Contents
 - [Description](#description)
@@ -16,11 +16,17 @@ Cypress was used to test the functionality of the quiz test site by validating i
 
 ## Installation
 1. Open a new terminal and type git clone git@github.com:jaystrand/test_quiz.git to add the respository.
-2. Next type npm install to install of of the required dependencies.
-3. Next, right click server and click open integrated terminal. Then type npm run start:dev to start up the server.
-4. Right click onto client and click open integrated terminal, then type npm run test to run the cypress test.
+2. Next open the terminal and type npm install to install the required dependencies.
+3. Then, type npm run start:dev to start the server.
+4. Next, open a separate terminal and type npm run cypress to run the Cypress testing.
+5. First, click the Component Testing option to test the components of the program, then choose your browser option and click the Start Component Testing.
+6. Under the Specs page, choose the Quiz.cy.jsx test to run.
+7. After running the tes, click on "test_quiz" on the left side of the screen.
+8. Choose the E2E Testing option.
+9. Next, choose the quiz.cy.js option under Specs to run all test.
 
 ## Video
+https://drive.google.com/file/d/1UmV2lpDTGH2c2qe891fll9tMqyZZdy6a/view
 
 ## Contributors
 #### Jermaine Strand
